@@ -47,12 +47,12 @@ vi /root/caddy/ssrmu/usermysql.json
 
 ```
 {
-    "host": "40.121.33.228",
+    "host": "ip",
     "port": 3306,
     "user": "ssrpanel",
-    "password": "19961225",
+    "password": "ssrpanel",
     "db": "ssrpanel",
-    "node_id": 8,
+    "node_id": 1,
     "transfer_mul": 1.0,
     "ssl_enable": 0,
     "ssl_ca": "",
