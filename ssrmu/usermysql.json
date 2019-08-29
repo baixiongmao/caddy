@@ -1,0 +1,13 @@
+{
+    "host": "40.121.33.228",
+    "port": 3306,
+    "user": "ssrpanel",
+    "password": "19961225",
+    "db": "ssrpanel",
+    "node_id": 7,
+    "transfer_mul": 1.0,
+    "ssl_enable": 0,
+    "ssl_ca": "",
+    "ssl_cert": "",
+    "ssl_key": ""
+}
